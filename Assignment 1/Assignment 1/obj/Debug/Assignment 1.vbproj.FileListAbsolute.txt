@@ -1,0 +1,12 @@
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\bin\Debug\Assignment 1.xml
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\obj\Debug\Assignment 1.vbproj.AssemblyReference.cache
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\obj\Debug\Assignment 1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Resources.resources
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\obj\Debug\Assignment 1.vbproj.GenerateResource.cache
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\obj\Debug\Assignment 1.vbproj.CoreCompileInputs.cache
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\obj\Debug\Assignment 1.xml
+C:\Users\Ishlyli\Videos\UE\UoK\Module 15 OOP\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
